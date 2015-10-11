@@ -60,6 +60,7 @@ Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium|Web
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
 Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
 Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book
+Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
 
 ### Additional
 Path | Courses | Difficulty | Type
@@ -150,6 +151,7 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 - [Sublime Text](http://www.sublimetext.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
+- [Atom] (http://www.atom.io)
 
 
 # Community

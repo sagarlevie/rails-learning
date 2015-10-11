@@ -173,6 +173,7 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 # Screencasts
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
+2. [GoRails](https://gorails.com)
 
 # Slides
 

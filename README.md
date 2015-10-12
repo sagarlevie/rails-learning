@@ -86,7 +86,7 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 
 ## Other Courses
 Path | Courses | Difficulty | Type |Access |Platform
-:--: | :-- | :--: | :--:
+:--: | :-- | :--: | :--:|:--:|:--:
 Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Medium|Web|Paid|CodeSchool
 Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Hard|Web|Paid|CodeSchool
 Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Medium|Web|Paid|CodeSchool

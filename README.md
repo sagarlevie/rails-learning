@@ -32,7 +32,6 @@
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
 
----
 # Beginner
 
 Path | Courses | Difficulty | Type
@@ -95,7 +94,10 @@ Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Ad
 Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
 Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
 Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
+Rails|[Learn Rails](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 
+
+---
 
 # Books
 

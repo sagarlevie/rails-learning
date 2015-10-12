@@ -96,6 +96,8 @@ Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testi
 Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
 Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
+Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
+Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
 
 
 ---

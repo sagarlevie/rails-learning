@@ -18,6 +18,7 @@
 * [Learn with Code](#learn-with-code)
 * [Videos](#videos)
 * [Community](#community)
+* [Stay Up to Date](#stay-up-to-date)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
 * [Slides](#slides)
@@ -207,6 +208,13 @@ Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Begi
 # News
 
 - [Ruby Weekly](http://rubyweekly.com/)
+
+# Stay Up to Date
+
+- [@dhh](http://twitter.com/dhh): The creator of Ruby on Rails. Posts insight on new releases and various tips.
+- [@rbates](https://twitter.com/rbates): Producer of Railscasts, posts tips and tricks very often.
+- [@rails](https://twitter.com/rails): The official Ruby on Rails Twitter account. Follow them if you want insight on release dates, and development.
+- [@rails_apps](https://twitter.com/rails_apps): They're posting new Rails example apps pretty often, pretty useful.
 
 # Podcasts
 

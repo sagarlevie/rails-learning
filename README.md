@@ -16,6 +16,7 @@
 * [DevTools](#devtools)
 * [Help](#help)
 * [Learn with Code](#learn-with-code)
+* [Videos](#videos)
 * [Community](#community)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
@@ -94,7 +95,7 @@ Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Ad
 Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
 Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
 Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
-Rails|[Learn Rails](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
+Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 
 
 ---
@@ -118,6 +119,10 @@ Rails|[Learn Rails](https://teamtreehouse.com/tracks/rails-development)|Beginner
 
 1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 1. [SaaS Course - The welcome word - Prograils](https://prograils.com/courses/saas/ch/01-the-welcome-word)
+1. [Facebook Authentication in Ruby on Rails](https://richonrails.com/articles/facebook-authentication-in-ruby-on-rails)
+1. [Google Authentication in Ruby On Rails](https://richonrails.com/articles/google-authentication-in-ruby-on-rails)
+1. [Gmail Like Chat Application in Ruby on Rails](http://josephndungu.com/tutorials/gmail-like-chat-application-in-ruby-on-rails)
+1. [Private Inbox System in Rails with Mailboxer](http://josephndungu.com/tutorials/private-inbox-system-in-rails-with-mailboxer)
 
 # Articles
 
@@ -184,6 +189,11 @@ Rails|[Learn Rails](https://teamtreehouse.com/tracks/rails-development)|Beginner
 1. [Pinteresting](https://github.com/onemonthrails/pinteresting) - This is the pinteresting sample application for One Month Rails
 1. [MyRecipes](https://github.com/railsudemycourse/myrecipes) -A recipe app written in Ruby on Rails.
 
+# Videos
+
+* [12 web apps in 12 weeks - Mackenzie Child](https://mackenziechild.me/12-in-12/)
+
+
 # Community
 
 - [Ruby on Rails: Community](http://rubyonrails.org/community/)
@@ -206,7 +216,7 @@ Rails|[Learn Rails](https://teamtreehouse.com/tracks/rails-development)|Beginner
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
 1. [GoRails](https://gorails.com)
-1. [12 web apps in 12 weeks - Mackenzie Child](https://mackenziechild.me/12-in-12/)
+
 
 # Slides
 
@@ -227,4 +237,3 @@ Rails|[Learn Rails](https://teamtreehouse.com/tracks/rails-development)|Beginner
 # How to Collaborate
 
 Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
-

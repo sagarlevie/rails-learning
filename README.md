@@ -85,15 +85,16 @@ Path | Courses | Difficulty | Type
 Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 
 ## Other Courses
-Path | Courses | Difficulty | Type |Access |Platform
+Path | Courses | Level| Type |Access |Platform
 :--: | :-- | :--: | :--:|:--:|:--:
-Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Medium|Web|Paid|CodeSchool
-Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Hard|Web|Paid|CodeSchool
-Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Medium|Web|Paid|CodeSchool
-Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Hard|Web|Paid|CodeSchool
-Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Hard|Web|Paid|CodeSchool
-Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Medium|Web|Paid|CodeSchool
-Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Medium|Web|Paid|CodeSchool
+Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Beginner|Web|Paid|CodeSchool
+Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Intermediate|Web|Paid|CodeSchool
+Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Intermediate|Web|Paid|CodeSchool
+Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Intermediate|Web|Paid|CodeSchool
+Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Advanced|Web|Paid|CodeSchool
+Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
+Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
+Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 
 
 # Books
@@ -167,11 +168,19 @@ Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec
 - [Vim](http://www.vim.org/)
 - [Atom](http://www.atom.io)
 
+# Help
+
+* [StackOverflow](http://stackoverflow.com/questions/tagged/ruby-on-rails)
+* [Chatroom (Browser-based IRC)](http://webchat.freenode.net/?channels=rubyonrails)
+* [Reddit](https://www.reddit.com/r/rails)
+
 # Learn with Code
 
 1. [Treebook](https://github.com/jasonseifer/treebook) - A social networking web application with features similar to Facebook.
-1. [Socify](https://github.com/sudharti/socify) - Socify is an open source social networking platform written in Ruby on Rails
-1. [Sample App](https://github.com/mhartl/sample_app_3rd_edition) - The sample app for the 3rd edition of the Ruby on Rails Tutorial
+1. [Socify](https://github.com/sudharti/socify) - Socify is an open source social networking platform written in Ruby on Rails.
+1. [Sample App](https://github.com/mhartl/sample_app_3rd_edition) - The sample app for the 3rd edition of the Ruby on Rails Tutorial.
+1. [Pinteresting](https://github.com/onemonthrails/pinteresting) - This is the pinteresting sample application for One Month Rails
+1. [MyRecipes](https://github.com/railsudemycourse/myrecipes) -A recipe app written in Ruby on Rails.
 
 # Community
 
@@ -195,6 +204,7 @@ Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
 1. [GoRails](https://gorails.com)
+1. [12 web apps in 12 weeks - Mackenzie Child](https://mackenziechild.me/12-in-12/)
 
 # Slides
 

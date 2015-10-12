@@ -1,4 +1,4 @@
-# Under Construction!
+## Under Construction!
 
 ![Ruby on Rails](http://blog.teamtreehouse.com/wp-content/uploads/2013/05/railsBlog1.jpg)
 
@@ -15,6 +15,7 @@
 * [Built with Rails](#built-with-rails)
 * [DevTools](#devtools)
 * [Help](#help)
+* [Learn with Code](#learn-with-code)
 * [Community](#community)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
@@ -42,8 +43,8 @@ HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
 Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy| Book & Video
 
-### Additional
-PPath | Courses | Difficulty | Type
+#### Additional
+Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy | Video
 Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy | Web
@@ -62,7 +63,7 @@ Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Vide
 Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book
 Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
 
-### Additional
+#### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
@@ -78,14 +79,27 @@ Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium|Book
 Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard|Book
 Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard|Book
 
-### Additional
+#### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 
+## Other Courses
+Path | Courses | Difficulty | Type |Access |Platform
+:--: | :-- | :--: | :--:
+Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Medium|Web|Paid|CodeSchool
+Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Hard|Web|Paid|CodeSchool
+Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Medium|Web|Paid|CodeSchool
+Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Hard|Web|Paid|CodeSchool
+Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Hard|Web|Paid|CodeSchool
+Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Medium|Web|Paid|CodeSchool
+Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Medium|Web|Paid|CodeSchool
+
+
 # Books
 
 1. [Learn to Program](https://pine.fm/LearnToProgram/)
+1. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
 1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
 1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
 1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
@@ -151,8 +165,13 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 - [Sublime Text](http://www.sublimetext.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
-- [Atom] (http://www.atom.io)
+- [Atom](http://www.atom.io)
 
+# Learn with Code
+
+1. [Treebook](https://github.com/jasonseifer/treebook) - A social networking web application with features similar to Facebook.
+1. [Socify](https://github.com/sudharti/socify) - Socify is an open source social networking platform written in Ruby on Rails
+1. [Sample App](https://github.com/mhartl/sample_app_3rd_edition) - The sample app for the 3rd edition of the Ruby on Rails Tutorial
 
 # Community
 
@@ -175,7 +194,7 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 # Screencasts
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
-2. [GoRails](https://gorails.com)
+1. [GoRails](https://gorails.com)
 
 # Slides
 
@@ -191,6 +210,7 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 # More Useful Links
 
 - [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
+- [Ruby . Styleguide . Github](https://github.com/styleguide/ruby)
 
 # How to Collaborate
 

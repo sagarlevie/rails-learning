@@ -130,6 +130,7 @@ Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Begi
 # Articles
 
 1. [Building a Ruby Gem in 2015](https://mattbrictson.com/building-a-gem-in-2015) - [Matt Brictson](https://mattbrictson.com/)
+1. [24 Extremely Useful Ruby Gems for Web Development](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
 

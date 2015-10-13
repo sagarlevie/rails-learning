@@ -12,6 +12,7 @@
 * [Books](#books)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
+* [Install Rails](#install-rails)
 * [Built with Rails](#built-with-rails)
 * [DevTools](#devtools)
 * [Help](#help)
@@ -134,6 +135,12 @@ Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutor
 1. [24 Extremely Useful Ruby Gems for Web Development](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
+# Install Rails
+**Mac** [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)
+
+**Ubuntu** [Setup Ruby On Rails on Ubuntu](https://gorails.com/setup/ubuntu/14.04)
+
+**Windows** [RailsInstaller](http://railsinstaller.org/en)
 
 # Built with Rails
 

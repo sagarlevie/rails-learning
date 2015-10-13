@@ -138,7 +138,7 @@ Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutor
 # Install Rails
 **Mac** [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)
 
-**Ubuntu** [Setup Ruby On Rails on Ubuntu](https://gorails.com/setup/ubuntu/14.04)
+**Ubuntu** [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)
 
 **Windows** [RailsInstaller](http://railsinstaller.org/en)
 

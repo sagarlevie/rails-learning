@@ -15,6 +15,7 @@
 * [Install Rails](#install-rails)
 * [Built with Rails](#built-with-rails)
 * [DevTools](#devtools)
+* [Third-party APIs](#third-party-apis)
 * [Help](#help)
 * [Learn with Code](#learn-with-code)
 * [Videos](#videos)
@@ -24,6 +25,7 @@
 * [Screencasts](#screencasts)
 * [Slides](#slides)
 * [Talks](#talks)
+* [Style Guides](#style-guides)
 * [More Useful Links](#more-useful-links)
 * [How to Collaborate](#how-to-collaborate)
 
@@ -101,23 +103,36 @@ Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-developme
 Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
 Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
 Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html)|Beginner|Video|Paid|Lynda.com
+Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
+Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
 
 
 ---
 
 # Books
 
+### Beginner
 1. [Learn to Program](https://pine.fm/LearnToProgram/)
 1. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
-1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
-1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
-1. [The Rails 4 Way](https://leanpub.com/tr4w)
-1. [Eloquent Ruby](http://eloquentruby.com/)
-1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
-1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
 1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 1. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
+1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
+1. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+
+### Intermediate
+
+1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
+1. [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist)
+1. [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
+
+### Advanced
+
+1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
+1. [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
+1. [The Rails 4 Way](https://leanpub.com/tr4w)
+1. [Eloquent Ruby](http://eloquentruby.com/)
 1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
 
 # Tutorials
@@ -187,6 +202,33 @@ Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutor
 - [Vim](http://www.vim.org/)
 - [Atom](http://www.atom.io)
 
+# Third-party APIs
+
+* [twilio-ruby](https://github.com/twilio/twilio-ruby) - A module for using the Twilio REST API and generating valid TwiML.
+* [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
+* [wikipedia](https://github.com/kenpratt/wikipedia-client) - Ruby client for the Wikipedia API.
+* [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs.
+* [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
+* [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
+* [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper.
+* [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
+* [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
+* [gmail](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.
+* [hipchat-rb](https://github.com/hipchat/hipchat-rb) - HipChat HTTP API Wrapper in Ruby with Capistrano hooks.
+* [instagram-ruby-gem](https://github.com/Instagram/instagram-ruby-gem) - The official gem for the Instagram REST and Search APIs.
+* [itunes_store_transporter](https://github.com/sshaw/itunes_store_transporter) - Ruby wrapper around Apple's iTMSTransporter program.
+* [linkedin](https://github.com/hexgnu/linkedin) - Provides an easy-to-use wrapper for LinkedIn's REST APIs.
+* [Octokit](http://octokit.github.io/octokit.rb) - Ruby toolkit for the GitHub API.
+* [Pusher](https://github.com/pusher/pusher-gem) - Ruby server library for the Pusher API.
+* [ruby-gmail](https://github.com/dcparker/ruby-gmail) - A Rubyesque interface to Gmail.
+* [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - Implementation of the Trello API for Ruby.
+* [Slack ruby gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API.
+* [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - Official SoundCloud API Wrapper for Ruby.
+* [Yt](https://github.com/Fullscreen/yt) - An object-oriented Ruby client for YouTube API V3.
+* [t](https://github.com/sferik/t) - A command-line power tool for Twitter.
+* [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
+
+
 # Help
 
 * [StackOverflow](http://stackoverflow.com/questions/tagged/ruby-on-rails)
@@ -212,6 +254,7 @@ Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutor
 - [Rails on Twitter](https://twitter.com/rails)
 - [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
 - [Ruby Community](https://www.ruby-lang.org/en/community/)
+- [RubyFlow - The Ruby and Rails community linklog](http://www.rubyflow.com/)
 
 
 # News
@@ -248,10 +291,16 @@ Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutor
 1. [Railsconf 2014, Talks I Liked](http://nepalonrails.com/blog/2014/05/railsconf-2014-talks-i-liked)
 1. [Favorite talks of RailsConf 2013](http://blog.planetargon.com/entries/2013/5/31/favorite-talks-of-railsconf-2013)
 
+## Style Guides
+
+- [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
+- [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
+- [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
+- [Thoughtbot Style Guides](https://github.com/thoughtbot/guides)
+
 # More Useful Links
 
 - [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
-- [Ruby . Styleguide . Github](https://github.com/styleguide/ruby)
 
 # How to Collaborate
 

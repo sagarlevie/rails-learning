@@ -46,6 +46,7 @@ Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy | Web
 HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
 Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy| Book & Video
+Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 
 #### Additional
 Path | Courses | Difficulty | Type
@@ -117,6 +118,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 1. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
 1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
+1. [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
 1. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
 
@@ -137,6 +139,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 
 # Tutorials
 
+1. [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
 1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 1. [SaaS Course - The welcome word - Prograils](https://prograils.com/courses/saas/ch/01-the-welcome-word)
 1. [Facebook Authentication in Ruby on Rails](https://richonrails.com/articles/facebook-authentication-in-ruby-on-rails)
@@ -151,8 +154,11 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
 # Install Rails
+
+**Mac** [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
 **Mac** [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)
 
+**Ubuntu**  [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)
 **Ubuntu** [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)
 
 **Windows** [RailsInstaller](http://railsinstaller.org/en)
@@ -207,6 +213,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 
 # Learn with Code
 
+1. [RailsApps Example Applications](http://railsapps.github.io/) - Code from the [Capstone Rails Tutorials](https://tutorials.railsapps.org/)
 1. [Treebook](https://github.com/jasonseifer/treebook) - A social networking web application with features similar to Facebook.
 1. [Socify](https://github.com/sudharti/socify) - Socify is an open source social networking platform written in Ruby on Rails.
 1. [Sample App](https://github.com/mhartl/sample_app_3rd_edition) - The sample app for the 3rd edition of the Ruby on Rails Tutorial.
@@ -242,7 +249,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 - [@dhh](http://twitter.com/dhh): The creator of Ruby on Rails. Posts insight on new releases and various tips.
 - [@rbates](https://twitter.com/rbates): Producer of Railscasts, posts tips and tricks very often.
 - [@rails](https://twitter.com/rails): The official Ruby on Rails Twitter account. Follow them if you want insight on release dates, and development.
-- [@rails_apps](https://twitter.com/rails_apps): They're posting new Rails example apps pretty often, pretty useful.
+- [@rails_apps](https://twitter.com/rails_apps): Daniel Kehoe is posting new Rails example apps pretty often, pretty useful.
 
 # Podcasts
 

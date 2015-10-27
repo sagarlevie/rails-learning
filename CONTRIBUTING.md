@@ -1,7 +1,7 @@
 Contribute
 ==========
 
-So you've got an awesome resource to throw into 'rails-learning'. Great! 
+So you've got an awesome resource to throw into `rails-learning`. Great! 
 
 Workflow
 --------

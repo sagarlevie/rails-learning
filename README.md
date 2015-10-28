@@ -1,6 +1,8 @@
-**Learn Ruby on Rails, an open-source framework for the Ruby programming language.**
-
 # [Ruby on Rails](http://rubyonrails.org/)
+
+Learning something from scratch is almost always an arduous affair -- you simply have no idea as to where to start, or not to start, to kick things off.
+
+You don't have to worry about finding the best resources, sorting out the bad ones, and figuring out what to learn next. It's all here. Just follow it, step by step.
 
 ## Table of Contents
 

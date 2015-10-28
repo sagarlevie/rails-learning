@@ -239,6 +239,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 # News
 
 - [Ruby Weekly](http://rubyweekly.com/)
+- [Ruby Flow](http://www.rubyflow.com/)
 
 # Stay Up to Date
 

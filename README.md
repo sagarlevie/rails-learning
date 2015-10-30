@@ -150,14 +150,19 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
 # Install Rails
+### Recommended
 
-**Mac** [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
-**Mac** [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)
+|OS|Tutorial|
+:--: | :--: |
+Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
+Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
+Windows | [RailsInstaller](http://railsinstaller.org/en)|
 
-**Ubuntu**  [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)
-**Ubuntu** [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)
-
-**Windows** [RailsInstaller](http://railsinstaller.org/en)
+#### Other methods
+|OS|Tutorial|
+:--:|:--:|
+Mac | [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
+Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)
 
 # DevTools
 

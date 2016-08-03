@@ -109,7 +109,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 
 ---
 
-#mvc-in-rails
+# MVC Foundation With Rails
 * [Basic Understanding of MVC  - Slides](http://www.slideshare.net/codeinmotion/mvc-demystified-essence-of-ruby-on-rails/4-Traditional_Applications_ulliBrowser_directly_accesses)
 * [Basic Understanding of MVC - Examples in Rails](https://betterexplained.com/articles/intermediate-rails-understanding-models-views-and-controllers/)
 * [Getting Started with Rails and MVC - With Code](https://www.sitepoint.com/getting-started-with-mvc/)

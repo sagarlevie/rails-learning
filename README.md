@@ -62,7 +62,6 @@ Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_start
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium|Web
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
 Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
 Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book

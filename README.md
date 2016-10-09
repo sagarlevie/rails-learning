@@ -1,10 +1,6 @@
-## Under Construction!
-
-![Ruby on Rails](http://blog.teamtreehouse.com/wp-content/uploads/2013/05/railsBlog1.jpg)
-
-**Learn Ruby on Rails, an open-source framework for the Ruby programming language.**
-
 # [Ruby on Rails](http://rubyonrails.org/)
+
+> Learning something from scratch is almost always an arduous affair -- you simply have no idea as to where to start, or not to start, to kick things off. You don't have to worry about finding the best resources, sorting out the bad ones, and figuring out what to learn next. It's all here. Just follow it, step by step.
 
 ## Table of Contents
 
@@ -153,14 +149,19 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
 # Install Rails
+### Recommended
 
-**Mac** [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
-**Mac** [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)
+|OS|Tutorial|
+:--: | :--: |
+Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
+Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
+Windows | [RailsInstaller](http://railsinstaller.org/en)|
 
-**Ubuntu**  [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)
-**Ubuntu** [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)
-
-**Windows** [RailsInstaller](http://railsinstaller.org/en)
+#### Other methods
+|OS|Tutorial|
+:--:|:--:|
+Mac | [Install Ruby on Rails on Mac OS X](http://railsapps.github.io/installrubyonrails-mac.html) - [RailsApps](http://railsapps.github.io/)
+Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrubyonrails-ubuntu.html) - [RailsApps](http://railsapps.github.io/)
 
 # DevTools
 
@@ -242,6 +243,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 # News
 
 - [Ruby Weekly](http://rubyweekly.com/)
+- [Ruby Flow](http://www.rubyflow.com/)
 
 # Stay Up to Date
 

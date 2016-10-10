@@ -40,9 +40,9 @@ Path | Courses | Difficulty | Type
 Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
 Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy | Web
 HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
-Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
-Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy| Book & Video
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
+Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
+Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)|Easy| Book & Video
 
 #### Additional
 Path | Courses | Difficulty | Type
@@ -58,7 +58,6 @@ Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_start
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium|Web
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
 Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
 Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book

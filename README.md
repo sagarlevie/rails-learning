@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [Curriculum](#curriculum)
-* [MVC Foundation With Rails](#mvc-in-rails)
+* [MVC Foundation With Rails](#mvc-foundation-with-rails)
 * [Books](#books)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
@@ -165,7 +165,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 :--: | :--: |
 Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
 Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
-Windows | [RailsInstaller](http://railsinstaller.org/en)|
+Windows | [RailsInstaller](http://railsinstaller.org/en); or use [Cloud9](https://c9.io)|
 
 #### Other methods
 |OS|Tutorial|

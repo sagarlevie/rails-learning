@@ -141,6 +141,7 @@ Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video
 1. [The Rails 4 Way](https://leanpub.com/tr4w)
 1. [Eloquent Ruby](http://eloquentruby.com/)
 1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
+1. [APIs on Rails - Building REST APIs with Rails](http://apionrails.icalialabs.com/book?hn)
 
 # Tutorials
 

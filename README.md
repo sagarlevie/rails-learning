@@ -41,7 +41,7 @@
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
-Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy | Web
+Ruby|[Learn Ruby - Codecademy](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
 HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video

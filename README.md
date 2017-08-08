@@ -32,9 +32,18 @@
 
 # Curriculum
 
+- [Trending](#trending)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
+
+# Trending
+
+Path | Courses | Level | Type |Support
+:--: | :-- | :--: | :--:
+Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Intro| Online|Mentor Led
+
+
 
 # Beginner
 
@@ -42,7 +51,7 @@ Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
 Ruby|[Learn Ruby - Codecademy](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
+HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/learn/learn-html-css)|Easy| Web
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)|Easy| Book & Video
@@ -63,7 +72,7 @@ Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
 Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
-Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book
+Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1)|Medium|Book
 Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
 
 #### Additional
@@ -71,7 +80,7 @@ Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
 jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy|Video
-Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Medium|Book
+Rails | [The Rails 5 Way](https://leanpub.com/tr5w)|Medium|Book
 
 
 # Advanced
@@ -97,7 +106,6 @@ Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-a
 Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Advanced|Web|Paid|CodeSchool
 Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
 Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
-Rails|[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
 Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
@@ -289,7 +297,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 ## Style Guides
 
 - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
-- [A community-driven Rails 3 & 4 style guide](https://github.com/bbatsov/rails-style-guide)
+- [A community-driven Ruby on Rails 4 style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
 - [Thoughtbot Style Guides](https://github.com/thoughtbot/guides)
 
@@ -325,4 +333,4 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # How to Collaborate
 
-Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+Send a pull request or just open an [issue](https://github.com/sagarmrey/rails-learning/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!

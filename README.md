@@ -40,7 +40,7 @@
 # Trending
 
 Path | Courses | Level | Type |Support
-:--: | :-- | :--: | :--:
+:--: | :-- | :--: | :--:| :--:
 Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Intro| Online|Mentor Led
 
 

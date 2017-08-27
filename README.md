@@ -11,6 +11,7 @@
 * [Articles](#articles)
 * [Install Rails](#install-rails)
 * [DevTools](#devtools)
+* [Useful Ruby Gems](#useful-ruby-gems)
 * [Built with Rails](#built-with-rails)
 * [Learn with Code](#learn-with-code)
 * [Videos](#videos)
@@ -32,18 +33,9 @@
 
 # Curriculum
 
-- [Trending](#trending)
 - [Beginner](#beginner)
 - [Intermediate](#intermediate)
 - [Advanced](#advanced)
-
-# Trending
-
-Path | Courses | Level | Type |Support
-:--: | :-- | :--: | :--:| :--:
-Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|Intro| Online|Mentor Led
-
-
 
 # Beginner
 
@@ -113,6 +105,7 @@ Rails|[Ruby on Rails 5 Essential Training](https://www.lynda.com/Ruby-Rails-tuto
 Rails|[Web Development in Rails](https://www.thinkful.com/courses/learn-ruby-on-rails-online)|Beginner|Web|Paid|Thinkful
 Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
 Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
+Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Video|Paid|OneMonth
 
 ---
 
@@ -190,6 +183,20 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 - [Atom](http://www.atom.io)
 
 
+# Useful Ruby Gems
+
+* [Devise](https://github.com/plataformatec/devise) - Devise is a flexible authentication solution for Rails based on Warden.
+* [Paperclip](https://github.com/thoughtbot/paperclip) - Paperclip is intended as an easy file attachment library for ActiveRecord. 
+* [CanCanCan](https://github.com/CanCanCommunity/cancancan) - CanCanCan is an authorization library for Ruby >= 2.2.0 and Ruby on Rails >= 4.2 which restricts what resources a given user is allowed to access.
+* [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - This gem provides a simple and extremely flexible way to upload files from Ruby on Rails applications.
+* [Simple Form](https://github.com/plataformatec/simple_form) - Simple Form aims to be as flexible as possible while helping you with powerful components to create your forms. 
+* [Kaminari](https://github.com/kaminari/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps.
+* [Better Errors](https://github.com/charliesome/better_errors) - Better Errors replaces the standard Rails error page with a much better and more useful error page. 
+* [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby.
+* [RuboCop](https://github.com/bbatsov/rubocop) - RuboCop is a Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community [ Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).
+* [OmniAuth](https://github.com/omniauth/omniauth) - OmniAuth is a library that standardizes multi-provider authentication for web applications.
+* [MetaTags](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) for Ruby on Rails applications.
+* [Will Paginate](https://github.com/mislav/will_paginate) - will_paginate is a pagination library that integrates with Ruby on Rails, Sinatra, Merb, DataMapper and Sequel.
 
 # Built with Rails
 

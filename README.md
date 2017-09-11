@@ -43,9 +43,11 @@ Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
 Ruby|[Learn Ruby - Codecademy](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
+Ruby|[Ruby - The Odin Project](http://www.theodinproject.com/ruby-programming)|Medium | Web
 HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/learn/learn-html-css)|Easy| Web
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
+Rails |[Rails - The Odin Project](http://www.theodinproject.com/ruby-on-rails)|Medium | Web
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)|Easy| Book & Video
 
 #### Additional

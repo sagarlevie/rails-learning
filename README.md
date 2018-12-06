@@ -41,20 +41,17 @@
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
-Ruby|[Learn Ruby - Codecademy](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
-Ruby|[Ruby - The Odin Project](http://www.theodinproject.com/ruby-programming)|Medium | Web
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/learn/learn-html-css)|Easy| Web
+Ruby|[Learn Ruby](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
+HTML|[Introduction to HTML](https://www.codecademy.com/learn/learn-html)|Easy| Web
+CSS|[Learn CSS](https://www.codecademy.com/learn/learn-css)|Easy| Web
 Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
-Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
-Rails |[Rails - The Odin Project](http://www.theodinproject.com/ruby-on-rails)|Medium | Web
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)|Easy| Book & Video
 
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy | Video
-Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy | Web
+JavaScript|[Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)|Easy | Video
+Git |[Learn Git](https://www.codecademy.com/learn/learn-git)|Easy | Web
 Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy|Book
 Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy|Web
 
@@ -65,17 +62,14 @@ Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_start
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
-Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
 Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1)|Medium|Book
-Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
+Rails|[Agile Development Using Ruby on Rails - The Basics](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
 
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
-jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy|Video
-Rails | [The Rails 5 Way](https://leanpub.com/tr5w)|Medium|Book
-
+SQL |[Learn SQL](https://www.codecademy.com/learn/learn-sql)| Easy|Video
+jQuery|[Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)|Easy|Video
 
 # Advanced
 
@@ -122,13 +116,14 @@ Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Vide
 
 ### Beginner
 1. [Learn to Program](https://pine.fm/LearnToProgram/)
-1. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
-1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
-1. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
-1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
-1. [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
-1. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+2. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+3. [The Well-Grounded Rubyist: Covers Ruby 1.9.1](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657)
+4. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+5. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
+6. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
+7. [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
+8. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+9. [Agile Web Development with Rails](https://pragprog.com/book/rails51/agile-web-development-with-rails-51)
 
 ### Intermediate
 
@@ -141,7 +136,6 @@ Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Vide
 1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
 1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
 1. [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
-1. [The Rails 4 Way](https://leanpub.com/tr4w)
 1. [Eloquent Ruby](http://eloquentruby.com/)
 1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
 1. [APIs on Rails - Building REST APIs with Rails](http://apionrails.icalialabs.com/book?hn)
@@ -158,9 +152,9 @@ Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Vide
 
 # Articles
 
-1. [Building a Ruby Gem in 2015](https://mattbrictson.com/building-a-gem-in-2015) - [Matt Brictson](https://mattbrictson.com/)
+1. [Building a Ruby Gem](https://mattbrictson.com/building-a-gem-in-2015) - [Matt Brictson](https://mattbrictson.com/)
 1. [24 Extremely Useful Ruby Gems for Web Development](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
-1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
+1. [Setting up Sublime Text for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
 # Install Rails
 ### Recommended
@@ -168,7 +162,7 @@ Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Vide
 |OS|Tutorial|
 :--: | :--: |
 Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
-Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/14.04)|
+Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/18.10)|
 Windows | [RailsInstaller](http://railsinstaller.org/en); or use [Cloud9](https://c9.io)|
 
 #### Other methods
@@ -282,7 +276,6 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # Podcasts
 
-- [Ruby5](https://ruby5.codeschool.com/)
 - [Ruby Rogues](https://devchat.tv/ruby-rogues/)
 - [5by5](http://5by5.tv/rubyonrails)
 
@@ -306,7 +299,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 ## Style Guides
 
 - [A community-driven Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide)
-- [A community-driven Ruby on Rails 4 style guide](https://github.com/bbatsov/rails-style-guide)
+- [A community-driven Ruby on Rails style guide](https://github.com/bbatsov/rails-style-guide)
 - [GitHub Ruby Coding Style](https://github.com/styleguide/ruby)
 - [Thoughtbot Style Guides](https://github.com/thoughtbot/guides)
 
@@ -318,7 +311,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 * [databasedotcom](https://github.com/heroku/databasedotcom) - Ruby client for the Salesforce's Database.com and Chatter APIs.
 * [Dropbox](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy](https://github.com/huydx/facy) - Command line power tool for facebook.
-* [fb_graph](https://github.com/nov/fb_graph) - A full-stack Facebook Graph API wrapper.
+* [FbGraph2](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
 * [flickr](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
 * [gitlab](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
 * [gmail](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.

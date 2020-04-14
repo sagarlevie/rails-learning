@@ -44,8 +44,9 @@ Path | Courses | Difficulty | Type
 Ruby|[Learn Ruby](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
 HTML|[Introduction to HTML](https://www.codecademy.com/learn/learn-html)|Easy| Web
 CSS|[Learn CSS](https://www.codecademy.com/learn/learn-css)|Easy| Web
-Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)|Easy| Book & Video
+Rails |[The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)|Medium| Video
+Rails |[Learn Ruby on Rails 5 (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
 
 #### Additional
 Path | Courses | Difficulty | Type
@@ -54,6 +55,7 @@ JavaScript|[Introduction to JavaScript](https://www.codecademy.com/learn/introdu
 Git |[Learn Git](https://www.codecademy.com/learn/learn-git)|Easy | Web
 Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy|Book
 Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy|Web
+Ruby |[Building Ruby Gems](https://www.pluralsight.com/courses/building-ruby-gems)|Medium|Video
 
 
 
@@ -62,8 +64,9 @@ Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_start
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
-Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails51/agile-web-development-with-rails-5-1)|Medium|Book
-Rails|[Agile Development Using Ruby on Rails - The Basics](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
+Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails6/agile-web-development-with-rails-6)|Medium|Book
+Rails|[Agile Development Using Ruby on Rails - The Basics](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics)|Medium|Web
+Rails|[Ruby on Rails 4: Getting Started](https://www.pluralsight.com/courses/ruby-rails-4-getting-started)|Medium|Video
 
 #### Additional
 Path | Courses | Difficulty | Type
@@ -76,7 +79,8 @@ jQuery|[Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)|E
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
 Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium|Book
-Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard|Book
+Ruby |[Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2)|Hard|Book
+Rails|[Ruby on Rails Web Development Specialization](https://www.coursera.org/specializations/ruby-on-rails)|Medium|Video
 Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard|Book
 
 #### Additional
@@ -87,21 +91,18 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 ## Other Courses
 Path | Courses | Level| Type |Access |Platform
 :--: | :-- | :--: | :--:|:--:|:--:
-Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Beginner|Web|Paid|CodeSchool
-Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Intermediate|Web|Paid|CodeSchool
-Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Intermediate|Web|Paid|CodeSchool
-Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Intermediate|Web|Paid|CodeSchool
-Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Advanced|Web|Paid|CodeSchool
-Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
-Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
+Ruby|[Ruby Fundamentals](https://www.pluralsight.com/courses/ruby-fundamentals)|Beginner|Web|Paid|Pluralsight
+Rails |[Code School: Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)|Intermediate|Web|Paid|Pluralsight
+Rails|[React.js on Rails: Building a Full Stack Web App](https://www.pluralsight.com/courses/reactjs-on-rails-building-full-stack-web-app)|Intermediate|Web|Paid|Pluralsight
+Rails|[Code School: Rails 4 Patterns](https://www.pluralsight.com/courses/code-school-rails-4-patterns)|Advanced|Web|Paid|Pluralsight
+Rails|[Code School: Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)|Intermediate|Web|Paid|Pluralsight
+Rails|[Testing Ruby Applications with RSpec](https://www.pluralsight.com/courses/rspec-ruby-application-testing)|Intermediate|Web|Paid|Pluralsight
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
-Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
+Rails|[Web Application Development: Basic Concepts](https://www.coursera.org/learn/web-app)|Beginner|Web|Free|Coursera
 Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
-Rails|[Ruby on Rails 5 Essential Training](https://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-5-Essential-Training/500551-2.html)|Beginner|Video|Paid|Lynda.com
-Rails|[Web Development in Rails](https://www.thinkful.com/courses/learn-ruby-on-rails-online)|Beginner|Web|Paid|Thinkful
+Rails|[Ruby on Rails 6 Essential Training](https://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-6-Essential-Training/2825370-2.html)|Beginner|Video|Paid|Lynda.com
 Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
 Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
-Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Video|Paid|OneMonth
 
 ---
 
@@ -116,25 +117,24 @@ Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Vide
 
 ### Beginner
 1. [Learn to Program](https://pine.fm/LearnToProgram/)
-2. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
-3. [The Well-Grounded Rubyist: Covers Ruby 1.9.1](https://www.amazon.com/Well-Grounded-Rubyist-Covers-Ruby-1-9-1/dp/1933988657)
+2. [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
+3. [The Well-Grounded Rubyist](https://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1617295213)
 4. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
 5. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
 6. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
-7. [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
+7. [Learn Ruby on Rails 5 (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
 8. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-9. [Agile Web Development with Rails](https://pragprog.com/book/rails51/agile-web-development-with-rails-51)
+9. [Agile Web Development with Rails 6](https://pragprog.com/book/rails6/agile-web-development-with-rails-6)
 
 ### Intermediate
 
 1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
-1. [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist)
 1. [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
 
 ### Advanced
 
 1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
+1. [Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby)
 1. [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
 1. [Eloquent Ruby](http://eloquentruby.com/)
 1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
@@ -162,8 +162,8 @@ Rails |[One Month Rails](https://onemonth.com/courses/one-month-rails/)|All|Vide
 |OS|Tutorial|
 :--: | :--: |
 Mac | [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide) - [Matt Brictson](https://mattbrictson.com/)|
-Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/18.10)|
-Windows | [RailsInstaller](http://railsinstaller.org/en); or use [Cloud9](https://c9.io)|
+Ubuntu | [Setup Ruby On Rails on Ubuntu - GoRails](https://gorails.com/setup/ubuntu/20.04)|
+Windows | [RailsInstaller](http://railsinstaller.org/en)|
 
 #### Other methods
 |OS|Tutorial|
@@ -173,6 +173,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # DevTools
 
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
@@ -244,7 +245,7 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 
 # Videos
 
-* [12 web apps in 12 weeks - Mackenzie Child](https://mackenziechild.me/12-in-12/)
+* [12 web apps in 12 weeks - Mackenzie Child](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 
 # Help
 

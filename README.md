@@ -91,6 +91,8 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 ## Other Courses
 Path | Courses | Level| Type |Access |Platform
 :--: | :-- | :--: | :--:|:--:|:--:
+Sinatra|[The MVC Pattern in Ruby](https://www.udacity.com/course/the-mvc-pattern-in-ruby--ud270)|Beginner|Web|Free|Udacity
+Sinatra|[Dynamic Web Applications with Sinatra](https://www.udacity.com/course/dynamic-web-applications-with-sinatra--ud268)|Beginner|Web|Free|Udacity
 Ruby|[Ruby Fundamentals](https://www.pluralsight.com/courses/ruby-fundamentals)|Beginner|Web|Paid|Pluralsight
 Rails |[Code School: Rails for Zombies](https://www.pluralsight.com/courses/code-school-rails-for-zombies)|Intermediate|Web|Paid|Pluralsight
 Rails|[React.js on Rails: Building a Full Stack Web App](https://www.pluralsight.com/courses/reactjs-on-rails-building-full-stack-web-app)|Intermediate|Web|Paid|Pluralsight

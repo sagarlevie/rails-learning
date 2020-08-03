@@ -41,9 +41,9 @@
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby|[Learn Ruby](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
-HTML|[Introduction to HTML](https://www.codecademy.com/learn/learn-html)|Easy| Web
-CSS|[Learn CSS](https://www.codecademy.com/learn/learn-css)|Easy| Web
+Ruby|[Learn Ruby - Codecademy](https://www.codecademy.com/learn/learn-ruby)|Easy | Web
+HTML|[Introduction to HTML - Codecademy](https://www.codecademy.com/learn/learn-html)|Easy| Web
+CSS|[Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)|Easy| Web
 Rails |[Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/)|Easy| Book & Video
 Rails |[The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)|Medium| Video
 Rails |[Learn Ruby on Rails 5 (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
@@ -51,8 +51,8 @@ Rails |[Learn Ruby on Rails 5 (Daniel Kehoe)](http://learn-rails.com/learn-ruby-
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-JavaScript|[Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)|Easy | Video
-Git |[Learn Git](https://www.codecademy.com/learn/learn-git)|Easy | Web
+JavaScript|[Introduction to JavaScript - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)|Easy | Video
+Git |[Learn Git - Codecademy](https://www.codecademy.com/learn/learn-git)|Easy | Web
 Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy|Book
 Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy|Web
 Ruby |[Building Ruby Gems](https://www.pluralsight.com/courses/building-ruby-gems)|Medium|Video
@@ -71,8 +71,8 @@ Rails|[Ruby on Rails 4: Getting Started](https://www.pluralsight.com/courses/rub
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-SQL |[Learn SQL](https://www.codecademy.com/learn/learn-sql)| Easy|Video
-jQuery|[Introduction to jQuery](https://www.codecademy.com/learn/learn-jquery)|Easy|Video
+SQL |[Learn SQL - Codecademy](https://www.codecademy.com/learn/learn-sql)| Easy|Video
+jQuery|[Introduction to jQuery - Codecademy](https://www.codecademy.com/learn/learn-jquery)|Easy|Video
 
 # Advanced
 
@@ -99,7 +99,8 @@ Rails|[Code School: Rails for Zombies](https://www.pluralsight.com/courses/code-
 Rails|[Testing Ruby Applications with RSpec](https://www.pluralsight.com/courses/rspec-ruby-application-testing)|Intermediate|Web|Paid|Pluralsight
 Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
 Rails|[Web Application Development: Basic Concepts](https://www.coursera.org/learn/web-app)|Beginner|Web|Free|Coursera
-Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
+Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Paid|Codecademy
+Rails|[Learn Authentication with Ruby on Rails](https://www.codecademy.com/learn/rails-auth)|Beginner|Web|Paid|Codecademy
 Rails|[Ruby on Rails 6 Essential Training](https://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-6-Essential-Training/2825370-2.html)|Beginner|Video|Paid|Lynda.com
 Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
 Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
